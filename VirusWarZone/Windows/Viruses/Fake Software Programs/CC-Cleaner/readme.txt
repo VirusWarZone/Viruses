@@ -1,0 +1,1 @@
+It looks and acts like C-Cleaner, but trust me it's not.

@@ -1,1 +1,0 @@
-This is the most awesome prank virus yet! Original author of this virus is "GAMELASTER"

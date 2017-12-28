@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VirusWarZone/VirusWarZone/master/Logo.png" alt="VirusWarZone" />
+  <img src="https://raw.githubusercontent.com/VirusWarZone/Viruses/master/Logo.png" alt="VirusWarZone" />
 </p>
 
 ## About VirusWarZone

@@ -4,7 +4,7 @@
 
 ## About VirusWarZone
 
-VirusWarZone is a used to be a site that stored and distributed viruses for people to test for themselves, it is mostly for people without to resources to find these things themselves, or the time. The site got taken down frequently, so we made this repository.
+VirusWarZone used to be a site that stored and distributed viruses for people to test for themselves, it is mostly for people without to resources to find these things themselves, or the time. The site got taken down frequently, so we made this repository.
 
 ## GNU GENERAL PUBLIC LICENSE
 

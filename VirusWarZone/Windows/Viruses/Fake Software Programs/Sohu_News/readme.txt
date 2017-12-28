@@ -1,0 +1,1 @@
+We haven't tested it, but it's described as a password stealer and says it detects VirtualBox and Wine. (That means be careful)

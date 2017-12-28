@@ -1,0 +1,1 @@
+Cerber is a ransomware that you can buy and use for your own benifit, and he just happenned to find it.

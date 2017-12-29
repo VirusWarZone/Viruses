@@ -1,0 +1,1 @@
+Free internet Explorer TOOLBAR! Also steals private info from local internet browser(s).

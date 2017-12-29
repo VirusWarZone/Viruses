@@ -1,0 +1,1 @@
+Jigsaw ransomeware that gives a fake registration pop-up then proceeds to lock your files.

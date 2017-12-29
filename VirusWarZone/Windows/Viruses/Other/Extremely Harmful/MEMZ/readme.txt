@@ -1,0 +1,1 @@
+This trojan has quite a few payloads, which all automatically activate after each other, with some delay. Made by Leurak.

@@ -1,0 +1,1 @@
+Turns into a app downloader instead of the actual application

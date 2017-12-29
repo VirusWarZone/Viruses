@@ -1,0 +1,1 @@
+Open file explorer. Opens many folders. Open a link in chrome. Opens a separate page for that link. This virus is, odd.

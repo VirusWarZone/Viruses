@@ -1,0 +1,1 @@
+I was looking for a dll to run wincrash however i stumbled upon this virus while looking.

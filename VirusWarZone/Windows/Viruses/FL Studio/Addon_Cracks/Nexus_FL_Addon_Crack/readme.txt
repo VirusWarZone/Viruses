@@ -1,0 +1,1 @@
+Opens an installer and installs one thing before saying the install was complete. It didn't install nexus btw.

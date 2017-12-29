@@ -1,0 +1,1 @@
+Fake windows activator. The icon is a zip file but the extension is an exe.

@@ -1,0 +1,1 @@
+This Folder is for VirusWarZone staff only. So we have different passwords for the files put here. If you find them out good for you but if not, well, tough shit.

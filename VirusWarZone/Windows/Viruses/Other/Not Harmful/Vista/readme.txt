@@ -1,0 +1,1 @@
+Another BadJoke program to trick your uneducated friends / family to think something is happening.
